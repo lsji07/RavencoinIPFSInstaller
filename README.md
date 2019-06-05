@@ -36,7 +36,7 @@ For those that perhaps already have an IPFS node running and want to help suppor
 
 ```
 git clone https://github.com/ravenlandpush/ravencoin-ipfs-bootstrap-tools
-cd ravencoin-ipfs-bootstrap.tools
+cd ravencoin-ipfs-bootstrap-tools
 chmod +x sync_all_not_related_ipfs_hashes.sh
 ./sync_all_not_related_ipfs_hashes.sh
 ```
